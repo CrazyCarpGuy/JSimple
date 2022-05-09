@@ -1,0 +1,3 @@
+Ben Boardman is a motivated programmer who is proficient in Java, Rust, and Python.
+He strives to write high-quality code to satisfy his passion to create useful tools
+to help power the gaming world for years to come.

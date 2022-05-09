@@ -1,0 +1,4 @@
+Ryan Munn is an avid computer programmer with experience in Java, C++ and
+C#/Unity. Driven by a desire for learning and a passion for high-quality
+user experience, he strives to challenge himself as much as possible by taking
+on large-scale, complicated projects.
